@@ -13,5 +13,7 @@ public class PwdEncoder {
 	
 	void m1()
 	{}
-
+void Test()
+{
+	
 }
