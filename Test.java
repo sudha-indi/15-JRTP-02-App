@@ -9,5 +9,9 @@ public class PwdEncoder {
 		String encodedString=encoder.encodeToString(pwd.getBytes());
 		return encodedString;
 	}
+	
+	
+	void m1()
+	{}
 
 }
